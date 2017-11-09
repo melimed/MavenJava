@@ -9,7 +9,8 @@ public class SeleniumTest {
 	{
 		System.out.println("enter method Openfile");
 		System.out.println("change second commit");
-		System.out.println("change second commit");
+		System.out.println("change third commit");
+		System.out.println("change fourth commit");
 	}
 
 	@Test
